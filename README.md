@@ -1,0 +1,2 @@
+# GitPic
+Software Engineering Project
